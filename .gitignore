@@ -1,3 +1,5 @@
+/.idea
+2.2 lesson.iml
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
